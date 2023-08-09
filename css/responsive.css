@@ -1,0 +1,81 @@
+@media screen and (max-width:790px) {
+
+    .aug-img {
+        max-width: 600px;
+        min-width: 243px;
+        height: 130px;
+    }
+
+    header {
+        height: 8vh;
+    }
+
+    .calls {
+        max-width: 140px;
+        max-height: 140px;
+        margin: 0px auto;
+    }
+
+    .card {
+        min-height: 290px;
+    }
+ 
+    .card-item {
+        overflow: scroll;
+        width: 92px;
+        height: 104px;
+        margin: 0px -9px;
+        padding: 8px 22px;
+        display: block;
+    }
+
+    .my-img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .t-shirt {
+        margin: 9px 8px;
+        width: 98px;
+        font-size: 13px;
+    }
+
+    .pgin{
+        width: 98px;
+        margin-left: 13px;
+    }
+
+    .bg{
+        width: 98px;
+    }
+
+    .ws{
+        width: 98px;
+        margin-left: 13px;
+    }
+
+    .csd{
+        width: 104px;
+        margin-left: 13px;
+    }
+
+    .detail {
+        margin: -154px 135px;
+    }
+
+    .Qinfo {
+        margin: 171px 138px;
+    }
+
+    .Ainfo {
+        margin: -281px 193px;
+    }
+
+    .pro {
+        margin: 324px auto;
+    }
+
+    footer {
+        height: 8vh;
+    }
+}

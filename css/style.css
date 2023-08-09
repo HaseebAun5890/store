@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Ubuntu&display=swap');
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #6f7456e8;
+    height: 12vh;
+    border-radius: 40px;
+    border-width: 2px;
+    border-style: dashed solid;
+    border-color: rgb(165, 158, 132);
+}
+
+.my-1 {
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    color: rgb(255, 255, 255);
+    padding: 20px 0px;
+    width: fit-content;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+    min-height: calc(100vh - 12vh - 12vh);
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slider img {
+    margin: 0 84px;
+}
+
+.note {
+    margin: 0px 54px;
+    background-color: rgba(176, 173, 173, 0.5);
+    border-radius: 5px;
+}
+
+.call {
+    display: flex;
+    justify-content: center;
+}
+
+.calls {
+    margin: 0px 140px
+}
+
+.card {
+    background-color: #6f7456e8;
+    height: 190px;
+    margin: 0px 10px;
+    border-radius: 9px;
+}
+
+.card-item {
+    display: inline-flex;
+    flex-direction: row;
+    overflow: scroll;
+    width: 139px;
+    height: 121px;
+    padding: 12px 21px;
+    margin: 5px 15px;
+}
+
+.card-item img {
+    margin: 0px 4px;
+}
+
+
+.t-shirt {
+    width: fit-content;
+    height: fit-content;
+    margin-left: 18px;
+    /* margin: 3px 44px; */
+    padding: 2px 4px;
+    color: #d2d2d2;
+    border-width: 2px;
+    border-style: inset;
+    border-color: black;
+    border-top-color: #c1c1c100;
+    border-left-color: #c1c1c100;
+
+}
+
+
+.pgin {
+    font-size: 11px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 18px;
+    /* margin: 3px 44px; */
+    padding: 2px 4px;
+    color: #d2d2d2;
+    border-width: 2px;
+    border-style: inset;
+    border-color: black;
+    border-top-color: #c1c1c100;
+    border-left-color: #c1c1c100;
+
+}
+
+.bg {
+    font-size: 13.5px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 18px;
+    /* margin: 3px 44px; */
+    padding: 2px 4px;
+    color: #d2d2d2;
+    border-width: 2px;
+    border-style: inset;
+    border-color: black;
+    border-top-color: #c1c1c100;
+    border-left-color: #c1c1c100;
+
+}
+
+.ws {
+    font-size: 13px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 18px;
+    /* margin: 3px 44px; */
+    padding: 2px 4px;
+    color: #d2d2d2;
+    border-width: 2px;
+    border-style: inset;
+    border-color: black;
+    border-top-color: #c1c1c100;
+    border-left-color: #c1c1c100;
+
+}
+
+.csd {
+    font-size: 14px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 18px;
+    /* margin: 3px 44px; */
+    padding: 2px 4px;
+    color: #d2d2d2;
+    border-width: 2px;
+    border-style: inset;
+    border-color: black;
+    border-top-color: #c1c1c100;
+    border-left-color: #c1c1c100;
+
+}
+.detail {
+    width: fit-content;
+    margin: -171px 223px;
+    color: white;
+    border: 1px outset darkgray;
+}
+
+.main-info {
+    width: max-content;
+}
+
+
+.Qinfo {
+    margin: 184px 252px;
+    width: fit-content;
+    color: white;
+}
+
+.QINFO {
+    margin: 5px 0;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.Ainfo {
+    margin: -293px 324px;
+    width: fit-content;
+}
+
+.AINFO {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 5px 2px;
+    padding: 1px 3px;
+}
+
+.AINFOO {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 5px 2px;
+    padding: 1px 3px;
+    margin: 6px;
+}
+
+.AINFOOO {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 5px 2px;
+    padding: 1px 3px;
+    margin-top: 7px;
+    font-size: 15px;
+}
+
+
+.pro {
+    display: flex;
+    justify-content: center;
+    margin: 156px 604px;
+    width: 154px;
+    padding: 3px;
+    border-style: dashed solid;
+    border-width: 2px;
+    border-color: white;
+    color: #000000f0;
+}
+
+footer {
+    background-color: #6f7456e8;
+    height: 12vh;
+    border-radius: 40px;
+    border-width: 2px;
+    border-style: dashed solid;
+    border-color: rgb(165, 158, 132);
+}
+
+.my-2 {
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    color: rgb(255, 255, 255);
+    padding: 20px 0px;
+    width: fit-content;
+    font-family: 'Ubuntu', sans-serif;
+}
